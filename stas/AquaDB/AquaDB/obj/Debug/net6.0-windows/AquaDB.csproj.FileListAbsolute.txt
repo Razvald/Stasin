@@ -1,0 +1,157 @@
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.exe
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.deps.json
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.runtimeconfig.json
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.pdb
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.AssemblyReference.cache
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\GraphWindow.g.cs
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.cache
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.lref
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\GraphWindow.baml
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.g.resources
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfoInputs.cache
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfo.cs
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.CoreCompileInputs.cache
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.CopyComplete
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\refint\AquaDB.dll
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.pdb
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.genruntimeconfig.cache
+C:\Users\sheve\source\repos\AquaDB\AquaDB\obj\Debug\net6.0-windows\ref\AquaDB.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.exe
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.deps.json
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.runtimeconfig.json
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.pdb
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Humanizer.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.AssemblyReference.cache
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\GraphWindow.g.cs
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\App.g.cs
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.cache
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.lref
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\GraphWindow.baml
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\MainWindow.baml
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.g.resources
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.GeneratedMSBuildEditorConfig.editorconfig
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfoInputs.cache
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfo.cs
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.CoreCompileInputs.cache
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.CopyComplete
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.dll
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\refint\AquaDB.dll
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.pdb
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.genruntimeconfig.cache
+G:\AquaDB\AquaDB\obj\Debug\net6.0-windows\ref\AquaDB.dll
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.AssemblyReference.cache
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\GraphWindow.g.cs
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.cache
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.lref
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.dll
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\refint\AquaDB.dll
+C:\Users\sheve\OneDrive\Рабочий стол\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.pdb
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.AssemblyReference.cache
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.cache
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB_MarkupCompile.lref
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\refint\AquaDB.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.pdb
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.exe
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.deps.json
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.runtimeconfig.json
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\AquaDB.pdb
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.g.resources
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfoInputs.cache
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.AssemblyInfo.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.CoreCompileInputs.cache
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.csproj.Up2Date
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\AquaDB.genruntimeconfig.cache
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\ref\AquaDB.dll
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\GraphWindow.g.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\GraphWindow.baml
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\LoginWindow.g.cs
+C:\Users\Razvald\OneDrive\Рабочий стол\school\stas\AquaDB\AquaDB\obj\Debug\net6.0-windows\View\LoginWindow.baml
